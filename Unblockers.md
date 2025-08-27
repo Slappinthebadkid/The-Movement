@@ -7,11 +7,17 @@ LET ME KNOW IF YOU HAVE ANY SITES THAT YOU WOULD LIKE ADDED HERE!!! IF YOU DO, P
 # Norepted: Unblocked youtube video watcher, hides your history, so pretty great
 
 
-https://wea-f.github.io/Norepted/](https://norepted.netlify.app/ Note: click "Skip Intro"
+https://wea-f.github.io/Norepted/](https://norepted.netlify.app/
+
 https://norepted-delta.vercel.app/
+
 https://norepted.playcode.io/
+
 https://gzhhqm.csb.app/
+
 https://sites.google.com/view/n0repted/home
+
 https://codepen.io/weaF_z/full/RwJVywE
+
 https://wea-f.github.io/Norepted/)
 
