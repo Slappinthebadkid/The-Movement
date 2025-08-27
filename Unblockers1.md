@@ -18,8 +18,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 
 ## website title | what it contains | any note if needed
 
-### Norepted | YT video watcher with history hiding 
-#### Status:  Stable ✅
+### Norepted: An unblocked Youtube which also hides history
 https://norepted.netlify.app/ Note: click "Skip Intro" <br>
 https://norepted-delta.vercel.app/ <br>
 https://norepted.playcode.io/ <br>
@@ -28,10 +27,9 @@ https://sites.google.com/view/n0repted/home <br>
 https://codepen.io/weaF_z/full/RwJVywE <br>
 https://wea-f.github.io/Norepted/ <br>
  
-### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
-#### Status: Flourishing 💯
+### Interstellar: One of the most popular unblocker, highly reccomend
 https://gointerstellar.app <br> 
-Interstellar Discord (has more links w/dispenser): https://discord.gg/interstellar <br>  
+Interstellar Discord: https://discord.gg/interstellar <br>  
 **6/3 Links (10+)** <br>
 https://useinterstellar.laviewddns.com/ <br>
 https://interstellar.laviewddns.com/ <br>
