@@ -11,15 +11,11 @@ This is a collection of links of proxies, games, AI, and apps. <br>
   multiple url openers, like https://www.openmultipleurl.com/, https://www.openallurls.com/, and https://www.websiteplanet.com/webtools/multiple-url/, will help speed up the proccess of finding ones that are unblocked! <br>
 
 
-<br>
-## Shortcuts & Table of Contents:
-**Bolded ones are HIGHLY RECOMMENDED (useful, flourishing)** <br>
-
 
 ## website title | what it contains | any note if needed
 
 ### Norepted: An unblocked Youtube which also hides history
-https://norepted.netlify.app/ Note: click "Skip Intro" <br>
+https://norepted.netlify.app/
 https://norepted-delta.vercel.app/ <br>
 https://norepted.playcode.io/ <br>
 https://gzhhqm.csb.app/ <br>
@@ -30,7 +26,6 @@ https://wea-f.github.io/Norepted/ <br>
 ### Interstellar: One of the most popular unblocker, highly reccomend
 https://gointerstellar.app <br> 
 Interstellar Discord: https://discord.gg/interstellar <br>  
-**6/3 Links (10+)** <br>
 https://useinterstellar.laviewddns.com/ <br>
 https://interstellar.laviewddns.com/ <br>
 https://iamsteve.raspberryip.com/ <br>
@@ -40,7 +35,6 @@ https://ghost.enslavednickgers.beingtouched.latinliturgy.com/ <br>
 https://zixypy.reticence.lol/d <br>
 https://login.rit.cl/onboard.html <br>
 https://billing.matthias-berlin.de/onboard.html <br> <br>
-**4/20 Links (25+)** <br>
 https://my-learning-hall.jemix.sg/ <br>
 https://zixypy.reticence.lol/ <br>
 https://reading.undetected.lol/ <br>
@@ -62,7 +56,6 @@ https://why-is-my-popcorn-so-gorilla.easterndns.com/ <br>
 https://what-is-interstellar-all-i-know-is-linewize.easterndns.com/ <br>
 https://goguardian-is-not-my-guardian.easterndns.com/ <br>
 https://filter-admins-come-and-get-me.easterndns.com/ <br> <br>
-**4/5 Links (100+)** <br>
 https://www.lunchly20.i-like-my-cheese-drippy-bruh.donburistellar.dyndns64.de <br>
 https://lunchly218.i-like-my-cheese-drippy-bruh.ytyt.kozow.com <br>
 https://www.lunchly989898989898989898989.i-like-my-cheese-drippy-bruh.ytyt.kozow.com <br>
@@ -135,8 +128,8 @@ https://lunchly1000.i-like-my-cheese-drippy-bruh.donburistellar.dyndns64.de <br>
 https://www.14-i-like-my-cheese-drippy-bruh.ytyt.kozow.com <br>
 https://luchly209.i-like-my-cheese-dripy-bruh.ytyt.kozow.com <br>
 https://keito.swanndvr.net <br>
-https://vp.k.vu <br> <br>
-**Mar 24 Links:** <br>
+https://vp.k.vu <br>
+https://blahblahbrrr.wine-software.com/ <br>
 https://prestonhitgrandmasterinyorkmate.tice-industries.com/ <br>
 https://helpmeget.root.sx/ <br>
 https://4287613382.uncork.biz/ <br>
@@ -150,10 +143,7 @@ https://kleep.epicgamer.org/ <br>
 https://kleep.paulopedron.com/ <br>
 https://dmvontop.twilightparadox.com/ <br>
 https://tststststststststststststststststststststs.zavoj.ch/ <br> <br>
-**Mar 3 Link:** https://nomorefemboyfriday.unibutton.com/ <br>
-<br>  
-**:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: <br>
-**Feb 23 Links (10+)** <br>
+https://nomorefemboyfriday.unibutton.com/ <br>
 https://matheiuslikesmen.bouncers4rent.com/                                        <br>
 https://alumulakakro.unibutton.com/                                        <br>
 https://arraypush.unibutton.com/                                        <br>
@@ -161,7 +151,6 @@ https://hamburgerxtreme.unibutton.com/                                        <b
 https://mayalu.unibutton.com/                                        <br>
 https://sitarabhajangi.unibutton.com/                                        <br>
 https://learningmath.pages.dev/                                        <br> <br>
-**Jan 25 Added Interstellar Links (70+)** <br>
 https://lamhasautism.freedns.rocks/                                        <br>
 https://speedylight.masplenedigitalworld.com/                                        <br>
 https://broncossuck.rit.cl/                                        <br>
@@ -211,7 +200,6 @@ https://booking.church.lodgegomantak.org/                                       
 https://lunchly129.i-like-my-cheese-drippy-bruh.donburistellar.dyndns64.de/                                        <br>
 https://kokoa.easterndns.com/                                        <br>
 https://www.wloun.math1.4cloud.click/                                        <br><br>
-**All Nov 5 NEW Interstellar links** <br>
 https://qcactus.goated.huepfler.com/<br>
 https://jasonkelceishim.minecraft.pe/<br>
 https://bhjxdrxfc.ipv64.net/<br>
@@ -259,10 +247,8 @@ https://oapahs.ipv64.net/<br>
 https://vpvvvokegwwvvegexvsgrgrjgeigerigrig.roundrockisd.online/<br>
 https://demo.theoceancleanup.info/<br>
 https://featheryfalcons.fr.to/<br>
-**NEW (Nov 13):** <br> 
 https://kisei.laviewddns.com/ <br>
 https://dartn-zako.laviewddns.com/ <br>
-**NEW (Nov 18):** <br>
 https://kiohjbh.ipv64.net/ <br>
 https://www.oapahs.ipv64.net/ <br>
 https://www.gvuiyhitcu.ipv64.net/ <br>
@@ -271,12 +257,9 @@ https://blocked.enia.net/ <br>
 https://housepools.power-media.ro/ <br>
 https://mhmmm.minecraft.pe/ <br>
 https://church.macgregoremc.com/ <br> <br>
-**:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
-### Doge Unblocker | Proxy, Games, Apps
-#### Status: Flourishing 💯 
-Disclaimer: Has ads <br>
-**June 3 Links (60+)** <br>
+
+### Doge Unblocker: Another popular unblocker, but sadly has ads :C
 http://manifest.sundby.com/ <br>
 http://letsgoo.kletterfranz.ch/ <br>
 http://aura.cuetara.name/ <br>
