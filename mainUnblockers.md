@@ -1,98 +1,20 @@
-# ByePassHub > Main Links | updated August 17
+# UNBLOCKERS :D
+
+## What is an unblocker?
+An unblocker is a search engine, but normally have games and are always unblocked. On these you can search freely!
+
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
-**Other files:** <br>
-**Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits/README.md) <br>
-**Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or to the games.md file<br>
-**Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>
-**Making your own unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or go to the MakeYourOwnLink.md file. <br>
-**Unblocked Search Engines:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/UnblockedSearchEngines.md) or go to the UnblockedSearchEngines.md file. <br>
-**Back to Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 
----
-
-  This list IS **FREE FROM** github.io, vercel.app, glitch.me, and onrender.com links. <br>
-  
-  #### Link not working? Any Suggestions? Feel free to make an [issue](https://github.com/wea-f/ByePassHub/issues), I'll try to respond back ASAP. <br>
-  **PRO TIP:** Use multiple url openers, like https://www.openmultipleurl.com/, https://www.openallurls.com/, and https://www.websiteplanet.com/webtools/multiple-url/, to find unblocked links faster! <br>
-  **FYI:** Links under a header like "Jan 20 links," means that those links were added on that day, and they are guranteed functional as of that day! 
-<br> <br>
-
-**Announcements:**
-- August 17 - Added new links and removed broken ones (issues [#96](https://github.com/wea-f/ByePassHub/issues/96), [#101](https://github.com/wea-f/ByePassHub/issues/101), and [#102](https://github.com/wea-f/ByePassHub/issues/102)) - Also added more links!
-- June 8 - Fixed some non working proxies (some have shutdown for the summer!)
-- 5/4 - [BYEPASSHUB GOOGLE DOC LAUNCHED (v2)](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing)
-- 2/23 - Thanks for 200 stars on this repository! I've added 300+ links and 2 new sites! (Check the updates /changes/log).
-
-## Updates/Changes:
-Links added in an update are **guranteed** to be working as of that day. <br>
-However, links added in previous updates sometimes **stops working** after a while. <br>
-To find the newly added links in the update, **look for the heading that contains the update date, and use the links under it.** 
-  > For example: Dec 25 Links: <br>
-
-### August 17, 2025 - 
-- WIP: Fixed issues [#96](https://github.com/wea-f/ByePassHub/issues/96), [#101](https://github.com/wea-f/ByePassHub/issues/101), and [#102](https://github.com/wea-f/ByePassHub/issues/102)
-- Added more links: Truffled (from issue [#101](https://github.com/wea-f/ByePassHub/issues/101))
-- Personally tested all links (WIP), removing non working ones.
-- Verified to be ALL working: [Doge](#doge-unblocker--proxy-games-apps), [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects), [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page), [Szvy Central](#szvy-central--proxy-games-apps),  [**Rammerhead**](#rammerhead--web-browser),[**Utopia**](#utopia--proxy-games-ai), [Kazwire](#kazwire--proxy-games-apps), **845+** [Shadow Browser](#shadow-browser--web-browser), [**Space**](#space--proxy-games-apps), [Selenite](#selenite--games-apps), [Hypertabs](#hypertabs--web-browser), [Sunset Network](#sunset-network--web-browser), [Emerald](#emerald--proxy-games-apps), [Arsenic](#arsenic--proxy-games), [Zatoga](#zatoga--proxy-games-apps-and-cheats), [Canlite](#canlite--proxy-games), [Snorlax](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank), [Shuttle](#shuttle--games-apps-and-proxy), [Page Sandbox](#page-sandbox--proxy--apps-like-reddit-and-twitch--ignore-the-random-chinese-text-it-doesnt-do-anything), [Bolt](#bolt--web-browser-games-apps), [Waves](#waves--proxy-games-apps-movies-ai), [Tinf0il](#tinf0il--games-proxy-apps), [Gimkit](#gimkit--proxy), [DayDream X](#daydream-x--web-browser), [meximath](#meximath--proxy-games-apps), [FalconLink](#falconlink--proxy-games-apps), [Truffled](#truffled--proxy-games-apps-movies)
-
+  #### Link not working? Any Suggestions? Feel free to make an issue under the "issues" tab, and I'll try to respond back ASAP. <br>
+  multiple url openers, like https://www.openmultipleurl.com/, https://www.openallurls.com/, and https://www.websiteplanet.com/webtools/multiple-url/, will help speed up the proccess of finding ones that are unblocked! <br>
 
 
 <br>
-
-
 ## Shortcuts & Table of Contents:
 **Bolded ones are HIGHLY RECOMMENDED (useful, flourishing)** <br>
 
-| Statuses      | Description |
-| ----------- | ----------- |
-| Flourishing 💯      |  site is active & at its peak, has tons of links, and is constantly updated.       |
-| Stable ✅   | has working links, site has activity and updates.        |
-| Unstable / Varying 😬 or 😐 | most links work, some are down, site sometimes updates. |
-| Ghosted 🚫 | site is inactive, most links work but likely to stop working. |
-| Fresh 😎 | The site was recently made and newly introduced! | <br>
-
-- <5 [Norepted](#norepted--yt-video-watcher-with-history-hiding) - Youtube video watcher  |  Status: Stable ✅
-- **260+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing 💯
-- *110+* [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing 💯
-- **155+** [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Emulators, Apps | Status: Stable ✅
-- *100+* [Szvy Central](#szvy-central--proxy-games-apps) - Proxy, Games, Apps | Status: Stable ✅
-- **845+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing 💯 
-- 30+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps | Status: Varying 😬 
-- **450+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you | Flourishing 💯 
-<!--- 5+ [Artclass](#artclass--games-apps-proxy-and-emulators) - Proxy, Games, Apps, and Emulators | Ghosted 🚫 -->
-- **215+** [**Utopia**](#utopia--proxy-games-ai) - Proxy, Games, **AI** | Stable  ✅ 
-- 5+ [Kazwire](#kazwire--proxy-games-apps) - Proxy, Games, Apps | Unstable 😐
-- **220+** [**Space**](#space--proxy-games-apps) - Proxy, Games, Apps | Status: Flourishing 💯
-- **190+** [Selenite](#selenite--games-apps) - One of the best GAMES sites, Apps | Status: Flourishing 💯
-- 10+ [Hypertabs](#hypertabs--web-browser) - Web browser | Stable ✅
- <!--  <5 [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps | *Ghosted* 🚫-->
-- *85+* [Sunset Network](#sunset-network--web-browser) - Web browser, Games | Status: Flourishing 💯
-- *70+* [**Emerald**](#emerald--proxy-games-apps) - Proxy, Games, Apps | Stable ✅
-- 40+ [Arsenic](#arsenic--proxy-games) - Proxy, Games | Status: Stable ✅
-- 10+ [Zatoga](#zatoga--proxy-games-apps-and-cheats) - Proxy, **500+ Games**, Apps, Cheats | Ghosted 🚫
-- *60+* [CanLite](#canlite--proxy-games) - Proxy, games | Fresh 😎
-- 40+ [Snorlax](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) - Proxy, Games, Apps | Status: unstable 😬
-- 10+ [Shuttle](#shuttle--games-apps-and-proxy) - Proxy, Games, Apps | Unstable 😐
-- <5 [Page Sandbox](#page-sandbox--proxy--apps-like-reddit-and-twitch--ignore-the-random-chinese-text-it-doesnt-do-anything) - Proxy, Apps | Functional 😐
-- 30+ [**Bolt**](#bolt--web-browser-games-apps) - Web Browser, Games, Apps| Fresh 😎
-- 25+ [Waves](#waves--proxy-games-apps-movies-ai) - Proxy, Games, Apps, Movies, AI | Fresh 😎
-- 5+ [Tinf0il](#tinf0il--games-proxy-apps) - Proxy, Games, Apps | Status: Stable  ✅
-- 20+ [Gimkit](#gimkit--proxy) - Proxy | Fresh 😎 + **hidden access**
-- *60+* [**DayDream X**](#daydream-x--web-browser) - Web Browser | Flourishing 💯
-- 10+ [Meximath](#meximath--proxy-games-apps) - Proxy, Games, Apps + **TOOLS** | Fresh 😎
-- 5+ [FalconLink](#falconlink--proxy-games-apps) - Proxy, Games, Apps |  Fresh 😎
-- 5+ [Truffled](#falconlink--proxy-games-apps-movies) - Proxy, Games, Apps, Movies |  Fresh 😎
-- <5 [Incognito](#incognito--proxy-games-apps) - Proxy, Games, Apps | Stable ✅
-<!--- <5 [Camouflage](#camouflage--proxy-games-apps) - Proxy, Games, Apps | Unstable 😐-->
-- [1-2 link sites](#sites-with-1-2-links) - 16+ sites & 25+ links total, with proxies, web browsers, OS, games, & apps | Varying 😐
-- 25+ **[AI](#ai-and-homework-solvers)** | Stable ✅
-  * 5+ [Homework Solvers/Calculators](#homework-solverscalculators-)
-    + <5 [Ai Checker](#ai--plagiarism-checkerdectector)
-- 35+ [Other Lists like this one](#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work) | Varying 😬
-  * 25+ [**Proxy Discord Servers**](#proxy-discord-servers) - these servers have many secret links that are probably unblocked, HIGHLY RECOMMEND
----
 
 ## website title | what it contains | any note if needed
 
